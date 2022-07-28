@@ -6,3 +6,8 @@
 fn main() {
     call_me();
 }
+
+fn call_me(){
+    println!("This is a test for function call")
+}
+// order of the function does not matter apparently
